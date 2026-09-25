@@ -1,0 +1,3 @@
+link github https://github.com/ahmadfajarpermadi
+link linkedin www.linkedin.com/in/ahmadfajarpermadi
+email ahmadfajarpermadi@gmail.com
